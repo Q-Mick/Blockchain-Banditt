@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Quentin
 - 👀 I’m interested in Coding and blockchain tech
-- 🌱 I’m currently learning a whole lot stuff at boise codeoworks
+- 🌱 I’m currently learning a whole lot stuff at boise codeworks
 - 
 - 📫 
 
