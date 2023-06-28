@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Quentin
-- 👀 currently learning Vue framework at Boise CodeWorks
-- 🌱 
+- 👀 Learning fullstack engineering at Boise CodeWorks.
+- 🌱 Growing my skills in Vue, Tailwindcss, SvelteKit node and sql
 - 
 - 📫 
 
