@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Quentin
-- 👀 Learning fullstack engineering at Boise CodeWorks.
+- 👀 Learning fullstack development at Boise CodeWorks.
 - 🌱 currently growing my skills in Vue, Tailwindcss, node and sql
 - 
 - 📫 
