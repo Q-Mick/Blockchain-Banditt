@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Quentin
-- 👀 Learning fullstack development at Boise CodeWorks.
-- 🌱 currently growing my skills in Vue, Tailwindcss, node and sql
+- 👀 I am a fullstack developer with skills in HTML/CSS, Vue, node, C#, .net, TS
+- 🌱 Currently building some react apps to further my knowledge base.
 - 
 - 📫 
 
