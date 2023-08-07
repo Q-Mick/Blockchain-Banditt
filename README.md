@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Quentin
-- 👀 I am a fullstack developer with skills in HTML/CSS, TS, JS, Vue, node, C#, .net
-- 🌱 Currently building some react apps to further my knowledge base.
-- 
+- 👀 I am a fullstack developer with skills in HTML/CSS, TS, JS, Vue, React, node, C#, .net
+- 🪙 
 - 📫 
 
 <!---
