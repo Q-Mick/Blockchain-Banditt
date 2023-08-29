@@ -3,11 +3,11 @@ Hi, I’m Quentin 👋
 
   Recently I have been learning aws, docker and nginx for deployment. I was successful in dockerizing my apps and getting them deployed to my aws, I also used Certbot for my certificates.
   
-  Coding and tech have been my passion since I got my first windows system which was a 200mhz packard bell as a kid and the life long experience of having a pc at my side for my entire life has given me the ability to quickly learn and adapt with new tech/software fast and efficiently.
+  Coding and tech have been my passion since I got my first windows system which was a 200mhz packard bell as a kid and having a pc at my side for my entire life has given me the ability to quickly learn and adapt with new tech/software fast and efficiently.
   
-Thank you for taking the time to read this and please shoot me an email if you are looking to collaborate or hire a skilled developer.
+If your looking to hire me or ned some consulting please reach out to me here.
   
-quentin@treecitydigital.com
+business@treecitydigital.com
   
 <!---
 /@Q-Mick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
