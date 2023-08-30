@@ -5,7 +5,7 @@ Hi, I’m Quentin 👋
   
   Coding and tech have been my passion since I got my first windows system which was a 200mhz packard bell as a kid and having a pc at my side for my entire life has given me the ability to quickly learn and adapt with new tech/software fast and efficiently.
   
-If your looking to hire me or ned some consulting please reach out to me here.
+If your looking to hire me or need some consulting please reach out to me here.
   
 business@treecitydigital.com
   
